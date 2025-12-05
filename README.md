@@ -46,8 +46,12 @@ Select a folder to scan. Options:
 
 The app scans image files (jpg, png, etc.) and checks for QR codes. If found, the image is moved to a `qr` folder in the same directory as the original file. Logs are written to `qrscan.log` files.
 
+![1764960551118](image/README/1764960551118.png)
+
+![1764960578908](image/README/1764960578908.png)
+
+
 ## Files
 
 - `qr_sorter_gui.py` - main GUI application
 - `qr_scanner_core.py` - core scanning logic
-
